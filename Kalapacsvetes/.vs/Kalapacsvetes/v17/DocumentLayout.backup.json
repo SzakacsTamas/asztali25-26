@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Szak\u00E1cs Tam\u00E1s\\asztali25-26\\Kalapacsvetes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83AEEAEA-B1DC-4E01-BC39-1DAE2D17BF8D}|Kalapacsvetes\\Kalapacsvetes.csproj|c:\\szak\u00E1cs tam\u00E1s\\asztali25-26\\kalapacsvetes\\kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AEEAEA-B1DC-4E01-BC39-1DAE2D17BF8D}|Kalapacsvetes\\Kalapacsvetes.csproj|solutionrelative:kalapacsvetes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83AEEAEA-B1DC-4E01-BC39-1DAE2D17BF8D}|Kalapacsvetes\\Kalapacsvetes.csproj|c:\\szak\u00E1cs tam\u00E1s\\asztali25-26\\kalapacsvetes\\kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83AEEAEA-B1DC-4E01-BC39-1DAE2D17BF8D}|Kalapacsvetes\\Kalapacsvetes.csproj|solutionrelative:kalapacsvetes\\sportolo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Sportolo.cs",
+              "DocumentMoniker": "C:\\Szak\u00E1cs Tam\u00E1s\\asztali25-26\\Kalapacsvetes\\Kalapacsvetes\\Sportolo.cs",
+              "RelativeDocumentMoniker": "Kalapacsvetes\\Sportolo.cs",
+              "ToolTip": "C:\\Szak\u00E1cs Tam\u00E1s\\asztali25-26\\Kalapacsvetes\\Kalapacsvetes\\Sportolo.cs",
+              "RelativeToolTip": "Kalapacsvetes\\Sportolo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:31:00.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Szak\u00E1cs Tam\u00E1s\\asztali25-26\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
+              "RelativeDocumentMoniker": "Kalapacsvetes\\Program.cs",
+              "ToolTip": "C:\\Szak\u00E1cs Tam\u00E1s\\asztali25-26\\Kalapacsvetes\\Kalapacsvetes\\Program.cs",
+              "RelativeToolTip": "Kalapacsvetes\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAADsAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-04T11:27:06.208Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
