@@ -1,0 +1,15 @@
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\bin\Debug\net8.0\autoapp.exe
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\bin\Debug\net8.0\autoapp.deps.json
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\bin\Debug\net8.0\autoapp.runtimeconfig.json
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\bin\Debug\net8.0\autoapp.dll
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\bin\Debug\net8.0\autoapp.pdb
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\autoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\autoapp.AssemblyInfoInputs.cache
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\autoapp.AssemblyInfo.cs
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\autoapp.csproj.CoreCompileInputs.cache
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\autoapp.sourcelink.json
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\autoapp.dll
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\refint\autoapp.dll
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\autoapp.pdb
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\autoapp.genruntimeconfig.cache
+C:\Szakács Tamás\asztali25-26\autoapp\autoapp\obj\Debug\net8.0\ref\autoapp.dll
