@@ -23,10 +23,10 @@ namespace Fuggohidak
 
 
         }
-
+        List<Fuggohid> adatok = new List<Fuggohid>();
         private void Window_Loaded(object sender, RoutedEventArgs e)
         {
-            List<Fuggohid> adatok = new List<Fuggohid>();
+            
             string[] line = File.ReadAllLines("fuggohidak.csv");
             foreach (string adat in line.Skip(1))
             {
@@ -37,7 +37,20 @@ namespace Fuggohidak
                 liszt.Items.Add(hid.nev);
               
             }
+
         }
-    
+
+        private void radio1_Checked(object sender, RoutedEventArgs e)
+        {
+            int szam = 0;
+            foreach (Fuggohid asd in adatok)
+            {
+                if (asd.ev < 2000)
+                {
+                    szam++;
+                }
+            }
+            szovegHelye.Text = szam.ToString();
+        }
     }
 }

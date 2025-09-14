@@ -5,9 +5,13 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Fuggohidak"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
     <Grid>
         <ListBox x:Name="liszt" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="34,32,524,112"/>
+        <RadioButton x:Name="radio1" Content="2000 előtt épült" HorizontalAlignment="Left" Margin="52,353,0,0" VerticalAlignment="Top" Checked="radio1_Checked"/>
+        <RadioButton x:Name="radio2" Content="2000-ben vagy után" HorizontalAlignment="Left" Margin="52,380,0,0" VerticalAlignment="Top"/>
+        <TextBlock x:Name="szovegHelye" HorizontalAlignment="Left" Margin="52,400,0,0" TextWrapping="Wrap" Text="31" VerticalAlignment="Top" Width="94"/>
+        <Label x:Name="label" Content="db" HorizontalAlignment="Left" Margin="206,400,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
