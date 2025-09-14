@@ -1,12 +1,12 @@
-C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\MainWindow.g.cs
-C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\App.g.cs
-C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak_MarkupCompile.cache
-C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak_MarkupCompile.lref
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.exe
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.deps.json
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.runtimeconfig.json
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.dll
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\bin\Debug\net8.0-windows\Fuggohidak.pdb
+C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak_MarkupCompile.cache
+C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak_MarkupCompile.lref
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\MainWindow.baml
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.g.resources
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.GeneratedMSBuildEditorConfig.editorconfig
@@ -19,3 +19,5 @@ C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.pdb
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\Fuggohidak.genruntimeconfig.cache
 C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\ref\Fuggohidak.dll
+C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\kereses.g.cs
+C:\Users\szakt\Desktop\dsad\asztali25-26\Fuggohidak\Fuggohidak\obj\Debug\net8.0-windows\kereses.baml

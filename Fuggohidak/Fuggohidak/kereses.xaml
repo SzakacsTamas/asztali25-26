@@ -1,0 +1,20 @@
+﻿<Window x:Class="Fuggohidak.kereses"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Fuggohidak"
+        mc:Ignorable="d"
+        Title="kereses" Height="450" Width="800">
+    <Grid>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="192,296,0,0" VerticalAlignment="Top" Width="120"/>
+        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="124,36,124,193"/>
+        <Label x:Name="label" Content="Keresés" HorizontalAlignment="Left" Margin="124,258,0,0" VerticalAlignment="Top" Width="89"/>
+        <Label x:Name="label1" Content="Ország" HorizontalAlignment="Left" Margin="146,292,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label2" Content="1km-nél hosszabbak" HorizontalAlignment="Left" Margin="168,325,0,0" VerticalAlignment="Top"/>
+        <CheckBox x:Name="checkBox" Content="" HorizontalAlignment="Left" Margin="148,331,0,0" VerticalAlignment="Top" Height="39" Width="42"/>
+        <Button x:Name="button" Content="Keresés" HorizontalAlignment="Left" Margin="210,363,0,0" VerticalAlignment="Top" Height="35" Width="84"/>
+        <Button x:Name="button_Copy" Content="Kilépés" HorizontalAlignment="Left" Margin="548,363,0,0" VerticalAlignment="Top" Height="35" Width="83" Click="button_Copy_Click"/>
+
+    </Grid>
+</Window>

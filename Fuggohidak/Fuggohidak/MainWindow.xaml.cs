@@ -50,7 +50,34 @@ namespace Fuggohidak
                     szam++;
                 }
             }
+
             szovegHelye.Text = szam.ToString();
+        }
+
+        private void radio2_Checked(object sender, RoutedEventArgs e)
+        {
+            int szam = 0;
+            foreach (Fuggohid asd in adatok)
+            {
+                if (asd.ev >= 2000)
+                {
+                    szam++;
+                }
+            }
+
+            szovegHelye.Text = szam.ToString();
+        }
+
+        private void button_Copy_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void button_Click(object sender, RoutedEventArgs e)
+        {
+            kereses kereses = new kereses();
+            kereses.Show();
+            this.Hide();
         }
     }
 }
