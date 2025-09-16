@@ -1,4 +1,5 @@
-﻿using System;
+﻿using System.IO;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -42,9 +43,19 @@ namespace Fuggohidak
                 {
                     orszaglist.Add(asd.orszag);
                 }
-                
+
             }
             comboBox.ItemsSource = orszaglist;
+        }
+        private void Window_Loaded(object sender, RoutedEventArgs e)
+        {
+
+            string[] line = File.ReadAllLines("fuggohidak.csv");
+            foreach (string adat in line.Skip(1))
+            {
+                adatok.Add(new Fuggohid(adat));
+            }
+
         }
     }
 }

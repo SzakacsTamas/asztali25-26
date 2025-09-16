@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Fuggohidak")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3363e6185936157e557baaa21b5a0cfda9bd8b17")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+1e1f198f5f7ca7fe9b098c3b7ed4686942c89907")]
 [assembly: System.Reflection.AssemblyProductAttribute("Fuggohidak")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Fuggohidak")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

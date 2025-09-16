@@ -7,20 +7,20 @@
       "RelativeMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|solutionrelative:fuggohidak\\kereses.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|c:\\users\\szakt\\desktop\\dsad\\asztali25-26\\fuggohidak\\fuggohidak\\kereses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|solutionrelative:fuggohidak\\kereses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|c:\\users\\szakt\\desktop\\dsad\\asztali25-26\\fuggohidak\\fuggohidak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|solutionrelative:fuggohidak\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|c:\\users\\szakt\\desktop\\dsad\\asztali25-26\\fuggohidak\\fuggohidak\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|solutionrelative:fuggohidak\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|c:\\users\\szakt\\desktop\\dsad\\asztali25-26\\fuggohidak\\fuggohidak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|solutionrelative:fuggohidak\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|c:\\users\\szakt\\desktop\\dsad\\asztali25-26\\fuggohidak\\fuggohidak\\kereses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|solutionrelative:fuggohidak\\kereses.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|c:\\users\\szakt\\desktop\\dsad\\asztali25-26\\fuggohidak\\fuggohidak\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3E38FAC-45E5-44B7-B56A-F17DCCFB7804}|Fuggohidak\\Fuggohidak.csproj|solutionrelative:fuggohidak\\fuggohid.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
@@ -43,14 +43,14 @@
               "RelativeDocumentMoniker": "Fuggohidak\\kereses.xaml.cs",
               "ToolTip": "C:\\Users\\szakt\\Desktop\\dsad\\asztali25-26\\Fuggohidak\\Fuggohidak\\kereses.xaml.cs",
               "RelativeToolTip": "Fuggohidak\\kereses.xaml.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAhwCgAAAA1AAAA",
+              "ViewState": "AQIAACwAAAAAAAAAAAAwwAAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T18:07:27.529Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "kereses.xaml",
               "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\dsad\\asztali25-26\\Fuggohidak\\Fuggohidak\\kereses.xaml",
               "RelativeDocumentMoniker": "Fuggohidak\\kereses.xaml",
@@ -62,7 +62,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\dsad\\asztali25-26\\Fuggohidak\\Fuggohidak\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Fuggohidak\\MainWindow.xaml",
@@ -74,7 +74,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Fuggohid.cs",
               "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\dsad\\asztali25-26\\Fuggohidak\\Fuggohidak\\Fuggohid.cs",
               "RelativeDocumentMoniker": "Fuggohidak\\Fuggohid.cs",
@@ -82,18 +82,17 @@
               "RelativeToolTip": "Fuggohidak\\Fuggohid.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAAbAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-14T06:09:09.148Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-14T06:09:09.148Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\szakt\\Desktop\\dsad\\asztali25-26\\Fuggohidak\\Fuggohidak\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Fuggohidak\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Users\\szakt\\Desktop\\dsad\\asztali25-26\\Fuggohidak\\Fuggohidak\\MainWindow.xaml.cs",
               "RelativeToolTip": "Fuggohidak\\MainWindow.xaml.cs",
-              "ViewState": "AQIAAFIAAAAAAAAAAIA1wGAAAAAwAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T06:05:49.729Z",
               "EditorCaption": ""
