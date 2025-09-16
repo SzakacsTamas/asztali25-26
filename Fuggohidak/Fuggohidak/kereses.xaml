@@ -7,8 +7,8 @@
         mc:Ignorable="d"
         Title="kereses" Height="450" Width="800">
     <Grid>
-        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="192,296,0,0" VerticalAlignment="Top" Width="120"/>
-        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="124,36,124,193"/>
+        <ComboBox x:Name="comboBox" HorizontalAlignment="Left" Margin="192,296,0,0" VerticalAlignment="Top" Width="120" SelectionChanged="comboBox_SelectionChanged"/>
+        <ListBox x:Name="listBox" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="124,36,124,193" SelectionChanged="listBox_SelectionChanged"/>
         <Label x:Name="label" Content="Keresés" HorizontalAlignment="Left" Margin="124,258,0,0" VerticalAlignment="Top" Width="89"/>
         <Label x:Name="label1" Content="Ország" HorizontalAlignment="Left" Margin="146,292,0,0" VerticalAlignment="Top"/>
         <Label x:Name="label2" Content="1km-nél hosszabbak" HorizontalAlignment="Left" Margin="168,325,0,0" VerticalAlignment="Top"/>

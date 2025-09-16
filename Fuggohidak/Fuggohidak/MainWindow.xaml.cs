@@ -79,5 +79,24 @@ namespace Fuggohidak
             kereses.Show();
             this.Hide();
         }
+
+        private void button1_Click(object sender, RoutedEventArgs e)
+        {
+            this.Close();
+        }
+
+        private void liszt_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            foreach (Fuggohid asd in adatok)
+            {
+                if (liszt.SelectedItem.ToString() == asd.nev)
+                {
+                    hely.Text = asd.fhely.ToString();
+                    orszag.Text = asd.orszag.ToString();
+                    hosz.Text = asd.hossz.ToString();
+                    ev.Text = asd.ev.ToString();
+                }
+            }
+        }
     }
 }

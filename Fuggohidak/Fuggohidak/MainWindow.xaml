@@ -7,13 +7,22 @@
         mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Loaded="Window_Loaded">
     <Grid>
-        <ListBox x:Name="liszt" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="34,32,524,112"/>
+        <ListBox x:Name="liszt" d:ItemsSource="{d:SampleData ItemCount=5}" Margin="34,32,524,112" SelectionChanged="liszt_SelectionChanged"/>
         <RadioButton x:Name="radio1" Content="2000 előtt épült" HorizontalAlignment="Left" Margin="54,336,0,0" VerticalAlignment="Top" Checked="radio1_Checked"/>
         <RadioButton x:Name="radio2" Content="2000-ben vagy után" HorizontalAlignment="Left" Margin="54,363,0,0" VerticalAlignment="Top" Checked="radio2_Checked"/>
         <TextBlock x:Name="szovegHelye" HorizontalAlignment="Left" Margin="54,383,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="94"/>
         <Label x:Name="label" Content="db" HorizontalAlignment="Left" Margin="196,381,0,0" VerticalAlignment="Top"/>
         <Button x:Name="button" Content="Keresés" HorizontalAlignment="Left" Margin="34,7,0,0" VerticalAlignment="Top" Click="button_Click"/>
         <Button x:Name="button_Copy" Content="Kilépés" HorizontalAlignment="Left" Margin="89,7,0,0" VerticalAlignment="Top" Click="button_Copy_Click"/>
+        <TextBlock x:Name="hely" HorizontalAlignment="Left" Margin="444,64,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="36" Width="142"/>
+        <TextBlock x:Name="orszag" HorizontalAlignment="Left" Margin="444,104,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="33" Width="136"/>
+        <TextBlock x:Name="hosz" HorizontalAlignment="Left" Margin="444,142,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="35" Width="130"/>
+        <TextBlock x:Name="ev" HorizontalAlignment="Left" Margin="444,182,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Height="35" Width="134"/>
+        <Label x:Name="label1" Content="Hely" HorizontalAlignment="Center" Margin="0,69,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy" Content="Ország" HorizontalAlignment="Center" Margin="0,108,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy1" Content="Hossz" HorizontalAlignment="Center" Margin="0,147,0,0" VerticalAlignment="Top"/>
+        <Label x:Name="label1_Copy2" Content="Év" HorizontalAlignment="Center" Margin="0,187,0,0" VerticalAlignment="Top"/>
+        <Button x:Name="button1" Content="Kilépés" HorizontalAlignment="Left" Margin="533,344,0,0" VerticalAlignment="Top" Height="44" Width="77" Click="button1_Click"/>
 
     </Grid>
 </Window>

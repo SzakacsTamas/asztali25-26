@@ -27,6 +27,24 @@ namespace Fuggohidak
         private void button_Copy_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
+            Window window = new MainWindow();
+            window.Show();
+
+        }
+        List<Fuggohid> adatok = new List<Fuggohid>();
+        List<string> orszaglist = new List<string>();
+
+        private void comboBox_SelectionChanged(object sender, SelectionChangedEventArgs e)
+        {
+            foreach (Fuggohid asd in adatok)
+            {
+                if (!orszaglist.Contains(asd.orszag))
+                {
+                    orszaglist.Add(asd.orszag);
+                }
+                
+            }
+            comboBox.ItemsSource = orszaglist;
         }
     }
 }
